@@ -1,4 +1,8 @@
-- 👋 Hi, I’m akpakpan aniekan
+- <center>👋 Hi, I’m akpakpan aniekan<center>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?aniekan12=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 - 👀 I’m interested in mobile development 
 - 🌱 I’m currently learning flutter 
 - 💞️ I’m working an app in the medical field
