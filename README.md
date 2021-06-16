@@ -1,7 +1,7 @@
 - 👋 Hi, I’m akpakpan aniekan
 - 👀 I’m interested in mobile development 
 - 🌱 I’m currently learning flutter 
-- 💞️ I’m looking to collaborate on mobile application projects. 
+- 💞️ I’m working an app in the medical field
 - 📫 akpakpan764@gmail.com
 
 <!---
