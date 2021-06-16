@@ -1,4 +1,4 @@
-- <center>👋 Hi, I’m akpakpan aniekan<center>
+ <center>👋 Hi, I’m akpakpan aniekan<center>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=aniekan12)](https://github.com/ryo-ma/github-profile-trophy)
 
