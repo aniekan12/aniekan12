@@ -7,14 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/ani_velly" target="blank"><img src="https://img.shields.io/twitter/follow/ani_velly?logo=twitter&style=for-the-badge" alt="ani_velly" /></a> </p>
 
-- 🔭 I’m currently working on [a medical app](https://github.com/zuri-training/E-Care-Mobile-pjt-24.git)
-
-- 🌱 I’m currently learning **flutter**
-
-- 👯 I’m looking to collaborate on **flutter projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/aniekan12?tab=repositories](https://github.com/aniekan12?tab=repositories)
-
 - 💬 Ask me about **flutter**
 
 - 📫 How to reach me **akpakpan764@gmail.com**
